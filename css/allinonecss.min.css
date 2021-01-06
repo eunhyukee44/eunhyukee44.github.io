@@ -385,7 +385,8 @@ h6 {
     overflow: hidden;
     flex-direction: column;
     min-height: 300px;
-    min-width: 300px; 
+    /*min-width: 300px;*/
+    width:300px; 
     margin: 0 20px 40px;
     transition: .5s;
     -webkit-transform: translate3d(0, 0, 0);
